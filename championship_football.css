@@ -1,0 +1,19 @@
+#homeView{
+	display: block;
+}
+#div{
+	display: block;
+	color: black;
+	border: 1px solid white;
+	border-width: 3px;
+	padding: 100px;
+	margin-top: 7.5px;
+	/*margin-left: 15px;*/
+}
+html { 
+  background: url(http://images.indianexpress.com/2016/06/germany-football-759.jpghttp://4.bp.blogspot.com/-rygCzSqBtg8/U423cS-NkrI/AAAAAAAAGvw/-493uWUBc2c/s1600/2014-worldcup-football-fifa-football-worldcup-fifa-worldcup-football-worldcup-live-worldcup-2014-worldcup-live.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
