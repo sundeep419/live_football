@@ -1,19 +1,41 @@
 #homeView{
 	display: block;
 }
-#sepDiv{
-	display: block;
-	color: black;
-	border: 1px solid white;
-	border-width: 3px;
-	padding: 100px;
-	margin-top: 7.5px;
-	/*margin-left: 15px;*/
-}
+
 body { 
-  background: url(http://images.indianexpress.com/2016/06/germany-football-759.jpg) no-repeat center center fixed; 
+  background: url(football.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+h3{
+	text-align: center;
+}
+.card {
+   background-color: rgba(255, 255, 255, 0.4);
+   color: brown;
+}
+.card2 {
+   background-color: rgba(200, 200, 200, 0.4);
+   color: #cc8800;
+}
+#leftText{
+	 background-color: rgba(200, 200, 200, 0.5);	
+	 color:brown;
+	 float:left;
+}
+#rightText{
+	 background-color: rgba(200, 200, 200, 0.5);	
+	 color:brown;
+}
+a{
+	text-align: center;
+}
+.card-title{
+	font-size: 12px;
+}
+h5{
+	text-align: center;
 }
