@@ -9,14 +9,18 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-
 h3{
 	text-align: center;
+}
+h4{
+	text-align: left;
+	padding-left: 50px;
 }
 .card {
    background-color: rgba(255, 255, 255, 0.4);
    color: brown;
 }
+
 .card2 {
    background-color: rgba(200, 200, 200, 0.4);
    color: #cc8800;
@@ -37,5 +41,12 @@ a{
 	font-size: 12px;
 }
 h5{
+	text-align: center;
+}
+#images{
+	height: 150px;
+	width: 150px;
+}
+#teamStat{
 	text-align: center;
 }
